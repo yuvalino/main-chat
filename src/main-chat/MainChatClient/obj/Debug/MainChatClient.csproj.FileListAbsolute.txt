@@ -1,0 +1,14 @@
+C:\Games\FiveM\cfx-server-data\resources\main-gamemode\src\main-chat\MainChatClient\bin\Debug\MainChatClient.net.dll
+C:\Games\FiveM\cfx-server-data\resources\main-gamemode\src\main-chat\MainChatClient\bin\Debug\MainChatClient.net.pdb
+C:\Games\FiveM\cfx-server-data\resources\main-gamemode\src\main-chat\MainChatClient\bin\Debug\CitizenFX.Client.dll
+C:\Games\FiveM\cfx-server-data\resources\main-gamemode\src\main-chat\MainChatClient\obj\Debug\MainChatClient.csprojResolveAssemblyReference.cache
+C:\Games\FiveM\cfx-server-data\resources\main-gamemode\src\main-chat\MainChatClient\obj\Debug\MainChatClient.net.dll
+C:\Games\FiveM\cfx-server-data\resources\main-gamemode\src\main-chat\MainChatClient\obj\Debug\MainChatClient.net.pdb
+C:\Games\FiveM\cfx-server-data\resources\main-gamemode\src\main-chat\MainChatClient\bin\Debug\Newtonsoft.Json.dll
+C:\Games\FiveM\cfx-server-data\resources\main-gamemode\src\main-chat\MainChatClient\bin\Debug\Newtonsoft.Json.xml
+D:\Games\FiveM\cfx-server-data\resources\[main]\main-chat\src\main-chat\MainChatClient\bin\Debug\MainChatClient.net.dll
+D:\Games\FiveM\cfx-server-data\resources\[main]\main-chat\src\main-chat\MainChatClient\bin\Debug\MainChatClient.net.pdb
+D:\Games\FiveM\cfx-server-data\resources\[main]\main-chat\src\main-chat\MainChatClient\bin\Debug\CitizenFX.Client.dll
+D:\Games\FiveM\cfx-server-data\resources\[main]\main-chat\src\main-chat\MainChatClient\obj\Debug\MainChatClient.csprojResolveAssemblyReference.cache
+D:\Games\FiveM\cfx-server-data\resources\[main]\main-chat\src\main-chat\MainChatClient\obj\Debug\MainChatClient.net.dll
+D:\Games\FiveM\cfx-server-data\resources\[main]\main-chat\src\main-chat\MainChatClient\obj\Debug\MainChatClient.net.pdb
